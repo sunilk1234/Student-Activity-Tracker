@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Student Dashboard</title>
+    <link rel="stylesheet" type="text/css" href="dashboard.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  </head>
+  <body>
+    <div class="container">
+      <h1>Student Dashboard</h1>
+      <div class="summary">
+        <h2>Performance Summary</h2>
+        <p>Total Score: <span id="total-score">0</span></p>
+        <p>Number of Quizzes: <span id="num-quizzes">0</span></p>
+        <p>Average Score: <span id="avg-score">0</span></p>
+      </div>
+      <div class="quiz-results">
+        <h2>Quiz Results</h2>
+        <canvas id="quiz-chart"></canvas>
+      </div>
+    </div>
+    <script type="text/javascript" src="dashboard.js"></script>
+  </body>
+</html>

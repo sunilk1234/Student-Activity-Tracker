@@ -1,0 +1,12 @@
+import sqlite3
+con = sqlite3.connect("suri.db")
+c=con.cursor()
+#c.execute("create table students(email varchar(30),password varchar(30),reg int,name varcahr(30))")
+c.execute ("Insert into students values ('surendra@gmail.com','suri123',3250,'surendrababu')")
+c.execute ("Insert into students values ('siddu@gmail.com','siddu123',3240,'siddartha')")
+c.execute ("Insert into students values ('sunil@gmail.com','sunil123',3249,'sunil')")
+c.execute ("Insert into students values ('gowtham@gmail.com','gowtham123',3213,'gowtham')")
+c.execute ("Insert into students values ('karthik@gmail.com','karthik123',0464,'karthik')")
+c.execute ("Insert into students values ('muju@gmail.com','muju123',3423,'mujamil')")
+c.execute ("Insert into students values ('sree@gmail.com','sree123',3439,'sreekanth')")
+temp = c.execute("select password from the students where username=username")
