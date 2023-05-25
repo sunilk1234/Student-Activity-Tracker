@@ -25,12 +25,18 @@ Performance:
 it will show performance analysis of a student by visualizing their data
 
 # Team members
-Surendra Babu D (team lead)
+Surendra Babu D (team lead)  
+
 Sunil Kumar Reddy B
+
 Sai Siddartha Rayol 
+
 Karthik
+
 Goutham A
+
 SreeKanth
+
 Muzamil Khan
 
 # Acknowledgements
