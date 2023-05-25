@@ -29,7 +29,7 @@ Surendra Babu D (team lead)
 
 Sunil Kumar Reddy B
 
-Sai Siddartha Rayol 
+Sai Siddartha Royal 
 
 Karthik
 
