@@ -1,6 +1,8 @@
 # Student-Activity-Tracker
-Evaluating student performance
+
 This project is done in 24hrs hackthon conducted by RGMCET
+
+This project is completed by our team ONE PIECE
 
 
 
